@@ -1,8 +1,14 @@
-## _Network Configuration File in Ubuntu Server_ 
-###### /etc/netplan/01-network-manager-all.yaml_
-## _Automatic Routing on Ubuntu Server:_
-### _Configure the server as a router to connect to other client machines (for example, Windows, Ubuntu). Set up the router to start automatically after BOOTING the machine._
-### _Grant permissions to the SCRIPT with the command: chmod +x_
+### Network Configuration File in Ubuntu Server 
+###### /etc/netplan/01-network-manager-all.yaml
+<img src="configurar_IP.png">
 
-### _To learn more about Netplan configuration on Ubuntu 22.04_: 
+#### After making the changes, save the file and apply the configuration with:
+###### sudo netplan apply
+#### Automatic Routing on Ubuntu Server:
+###### Configure the server as a router to connect to other client machines. Set up the router to start automatically after BOOTING the machine.
+#### Grant permissions to the SCRIPT with the command: 
+###### chmod +x
+<img src="automatic_routing.png">
+
+## _To learn more about Netplan configuration on Ubuntu 22.04_: 
 ### https://linuxconfig.org/netplan-network-configuration-tutorial-for-beginners
