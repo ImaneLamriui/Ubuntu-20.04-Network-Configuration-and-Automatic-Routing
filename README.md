@@ -1,4 +1,3 @@
-# _Ubuntu-20.04-Network-Configuration_
 ## _Network Configuration File in Ubuntu Server_ 
 ###### /etc/netplan/01-network-manager-all.yaml_
 ## _Automatic Routing on Ubuntu Server:_
