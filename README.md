@@ -13,6 +13,6 @@
 ## _To learn more about Netplan configuration on Ubuntu 22.04_: 
 ### https://linuxconfig.org/netplan-network-configuration-tutorial-for-beginners
 
-## To learn more about Iptables-rules:   
+## _To learn more about Iptables-rules_:   
 ### https://help.ubuntu.com/community/IptablesHowTo
 
