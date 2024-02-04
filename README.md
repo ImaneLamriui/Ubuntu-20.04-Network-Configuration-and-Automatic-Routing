@@ -1,4 +1,4 @@
-i### Network Configuration File in Ubuntu Server 
+### Network Configuration File in Ubuntu Server 
 ###### /etc/netplan/01-network-manager-all.yaml
 <img src="configurar_IP.png">
 
@@ -13,6 +13,6 @@ i### Network Configuration File in Ubuntu Server
 ## _To learn more about Netplan configuration on Ubuntu 22.04_: 
 ### https://linuxconfig.org/netplan-network-configuration-tutorial-for-beginners
 
-## _To learn more about Iptables-rules:   
+## To learn more about Iptables-rules:   
 ### https://help.ubuntu.com/community/IptablesHowTo
 
